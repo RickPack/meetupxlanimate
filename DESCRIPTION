@@ -1,0 +1,36 @@
+Type: Package
+Package: meetupxlanimate
+Title: meetupxlanimate
+Version: 0.0.1
+Authors@R: 
+    c(person(given = "Rick",
+             family = "Pack",
+             role = c("aut", "cre"),
+             email = "rickeyhp@gmail.com"))
+Description: R package for Meetup group admins only: 
+             creates an Excel workbook with group data and 
+             animation of membership growth. This package 
+             currently uses code borrowed from the rladies 
+             meetupr package as an expedient.
+License: MIT + file LICENSE
+Depends:
+    R (>= 4.0.0), 
+    openxlsx,
+    dplyr,
+    lubridate,
+    dplyr,
+    ggplot2,
+    gganimate,
+    openxlsx
+Imports:
+    tsibble,
+    stringr
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0

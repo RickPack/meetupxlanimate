@@ -1,0 +1,80 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit the Rmd file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+
+# If emo is not installed, install it.
+# devtools::install_github("hadley/emo")
+```
+
+# This package uses edited code from R Ladies meetupr package.
+At the time of package development, needed functions from the meetupr package were failing. Some function code has been modified and placed temporarily in this package in preparation for a joint June 30th, 2020 *Triangle SQL Server User Group* **(TriPASS)** / *Research Triangle Analysts* presentation(https://www.meetup.com/tripass/events/271083890/).
+
+All responsibility for this use is Rick Pack's and the author (I) offer my apology for not planning long enough in advance to get permission for this use.
+
+Differences between this code and the meetupr package can be viewed by comparing the repo containing the adjusted code: https://github.com/RickPack/Meetupr to https://github.com/rladies/Meetupr.
+
+**Authors:** [Rick Pack](http://github.com/RickPack/)
+
+**License:** [MIT](https://opensource.org/licenses/MIT)
+
+## Installation
+
+To install the development version from GitHub:
+
+```{r gh-installation, eval = FALSE}
+# install.packages("remotes")
+remotes::install_github("RickPack/Meetup_Excel_Animate")
+```
+
+### Meetupr package authentication (copied from Meetupr package documentation)
+
+As of August 15, 2019, Meetup.com switched from an API key based authentication system to [OAuth 2.0](https://www.meetup.com/meetup_api/auth/), so we now [support OAuth authentication](https://github.com/rladies/meetupr/issues/51).  The functions all have a `api_key` argument which is no longer used and will eventually be [deprecated](https://github.com/rladies/meetupr/issues/59).  In order to use this package, you can use our built-in OAuth credentials (recommended), or if you prefer, you can supply your own by setting the `meetupr.consumer_key` and `meetupr.consumer_secret` variables. 
+
+Each time you use the package, you will be prompted to log in to your meetup.com account.  The first time you run any of the **meetupr** functions in your session, R will open a browser window, prompting you to "Log In and Grant Access" (to the **meetupr** "application").
+
+### Function
+
+* `meetupxlanimate()`
+
+Making the function argument the name of the group one sees in a Meetup URL will save an animated .Gif of group membership in one's working directory and output a tibble with data about teh group.
+
+For example, the following code will create .Gif and get data for the [Research Triangle Analysts](https://www.meetup.com/Research-Triangle-Analysts/) Meetup.
+
+```{r}
+library(meetupxlanimate)
+
+urlname  <- "Research-Triangle-Analysts"
+rta_data <- meetupxlanimate("Research-Triangle-Analysts")
+# events <- get_events(urlname, "past")
+# dplyr::arrange(events, desc(created))
+```
+
+Next we can look up all R-Ladies groups by "topic id".  You can find topic ids for associated tags by querying [here](https://secure.meetup.com/meetup_api/console/?path=/find/topics).  The `topic_id` for topic, "R-Ladies", is `1513883`.
+
+```{r}
+groups <- find_groups(topic_id = 1513883)
+dplyr::arrange(groups, desc(created))
+```
+
+
+## How can you contribute?
+
+Take a look at some resources:
+
+- [https://www.meetup.com/meetup_api/](https://www.meetup.com/meetup_api/)
+- [https://www.meetup.com/meetup_api/clients/](https://www.meetup.com/meetup_api/clients/)
+
+We are looking for people to help write tests and vignettes!  You can also take a look at the open [issues](https://github.com/rladies/meetupr/issues).
+
+--
+
+Please note that the 'meetupr' project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
