@@ -14,8 +14,8 @@
 #'
 #'@examples
 #' \dontrun{
-#' meetupgrp_name <- "tripass"
-#' join_dates     <- meetupxlanimate(meetupgrp_name)
+#' meetupgrp_name         <- "tripass"
+#' tripass_join_dates     <- meetupxlanimate(meetupgrp_name)
 #'}
 #' @export
 
