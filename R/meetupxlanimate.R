@@ -27,12 +27,13 @@
 # library(meetupr)
 
 
-#' @export
+#' @export meetupxlanimate
 
 ###############################
 ## openxlsx helper functions ##
 ## in rExcelhelper           ##
 ###############################
+source("R/rExcelhelper.R")
 
 meetupxlanimate <- function(meetupgrp_name) {
 

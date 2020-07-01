@@ -12,9 +12,15 @@ Description: R package for Meetup group admins only:
              animation of membership growth. This package 
              currently uses code borrowed from the rladies 
              meetupr package as an expedient.
+             Dependent on meetupr package updates including 
+             acquisition of created field in get_members.R,
+             which is currently only available (as far as 
+             I know) in https://github.com/RickPack/meetupr,
+             version 0.0.2.
 License: MIT + file LICENSE
 Depends:
     R (>= 4.0.0), 
+    meetupr (>= 0.0.2),
     openxlsx,
     dplyr,
     lubridate,

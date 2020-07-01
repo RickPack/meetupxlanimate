@@ -1,2 +1,12 @@
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+inst/doc
+vignettes/*.R
+vignettes/*.html
+.DS_Store
 .httr-oauth
+openxl_fail.R
+temp.R
+Rladies.pptx
