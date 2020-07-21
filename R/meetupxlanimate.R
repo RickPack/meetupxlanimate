@@ -144,7 +144,7 @@ meetupxlanimate <- function(meetupgrp_name) {
       mutate(yearmon_varc = zoo::as.yearmon(joined_date)) %>%
       mutate(yearmon_var  = zoo::as.Date(yearmon_varc)) %>%
       arrange(yearmon_var) %>%
-      group_by(yearmon_var) %>%
+      group_by(yearmon_var, yearmon_varc) %>%
       summarise(Count = n()) %>%
       ungroup() %>%
       mutate(CumSum := cumsum(Count))

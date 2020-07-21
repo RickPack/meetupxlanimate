@@ -23,13 +23,18 @@ greyStyle  <- openxlsx::createStyle(bgFill = "#d3d3d3")
 centStyle  <- openxlsx::createStyle(halign = "CENTER")
 dateStyle  <- openxlsx::createStyle(numFmt = "yyyy-mm-dd")
 
+# column width handling per https://stackoverflow.com/questions/45860085/r-autofit-excel-column-width
 xlsxformat <- function(df_inxlsx, namxlsx="", nxlsx, max_nxlsx, wksht_name = "data", wb){
     if (nxlsx==1) {
         wb <- createWorkbook()
     }
     addWorksheet(wb, wksht_name)
     writeData(wb, nxlsx, df_inxlsx, colNames = TRUE, headerStyle = bldStyle)
-    setColWidths(wb, sheet = nxlsx, cols = 1:ncol(df_inxlsx), widths = "auto")
+
+    width_vec <- apply(df_inxlsx, 2, function(x) max(nchar(as.character(x)) + 2, na.rm = TRUE))
+    width_vec_header <- nchar(colnames(df_inxlsx))  + 2
+    max_vec_header <- pmax(width_vec, width_vec_header)
+    setColWidths(wb, nxlsx, cols = 1:ncol(df_inxlsx), widths = max_vec_header )
 
     if (max_nxlsx == nxlsx) {
         saveWorkbook(wb, paste0(namxlsx, ".xlsx"), overwrite = TRUE)
@@ -77,6 +82,18 @@ onesht_xlsx <- function(df_inxlsx, namxlsx){
 # setColWidths(wb, 1, cols = 1:ncol(sumset2), widths = "auto")
 # setColWidths(wb, 2, cols = 1:7, widths = "auto")
 # saveWorkbook(wb, paste(condnam,"_",filnam,sep=""), overwrite = TRUE)
+#
+# wksht_name = paste0(aco_nam_wksht, "_top10providers"),
+# df_inxlsx  = top10agesub_frm, nxlsx = 1,
+# max_nxlsx = shtnums)
+# wb <- xlsxformat(wb,
+#                  wksht_name = paste0(aco_nam_wksht, "_unique_plpid"),
+#                  df_inxlsx  = newfrm_plpid, nxlsx = 1,
+#                  max_nxlsx = 2)
+# wb <- xlsxformat(wb,
+#                  wksht_name = paste0(aco_nam_wksht, "_test_percent"),
+#                  df_inxlsx  = test_percent, nxlsx = 2,
+#                  max_nxlsx = 2)
 
 # conditionalFormatting(wb, sheetname, cols = 1:ncol(ckdata), rows = 2:(nrow(ckdata)+1), rule = "MOD(ROW(),2)=0", style = greyStyle)
 
