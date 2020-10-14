@@ -19,14 +19,6 @@
 #'}
 #' @export
 
-###########################################
-##  Appears to be a need to install this ##
-##  repo as of May, 2020                 ##
-###########################################
-# devtools::install_github('RickPack/meetupr')
-# library(meetupr)
-
-
 #' @export meetupxlanimate
 
 ###############################
@@ -35,13 +27,18 @@
 ###############################
 source("R/rExcelhelper.R")
 
+##################
+## Example Data ##
+##################
+source("R/examples.R")
+
 meetupxlanimate <- function(meetupgrp_name) {
 
     upcoming_events <- get_events(meetupgrp_name, "upcoming") %>%
         select(id, name, local_date)
 
     past_events <- get_events(meetupgrp_name, "past") %>%
-      dplyr::filter(year(created) %in% c(2018, 2019, 2020)) %>%
+      # dplyr::filter(year(created) %in% c(2018, 2019, 2020)) %>%
       select(id, name, local_date)
 
     if (nrow(past_events[past_events$local_date >= Sys.Date(), ]) > 0) {
@@ -54,8 +51,6 @@ meetupxlanimate <- function(meetupgrp_name) {
       message("")
       message("")
     }
-
-
 
     all_yesfrm <- data.frame()
 
@@ -95,6 +90,11 @@ meetupxlanimate <- function(meetupgrp_name) {
         }
       }
 
+    event_frm <- all_yesfrm %>%
+      group_by(event_name, event_date) %>%
+      summarise(rsvp_yes_count = n()) %>%
+      arrange(desc(rsvp_yes_count))
+
     all_yesfrm2 <- all_yesfrm %>%
       dplyr::filter(name != "Former member") %>%
       distinct(id, event_name, event_date, .keep_all = TRUE) %>%
@@ -128,19 +128,29 @@ meetupxlanimate <- function(meetupgrp_name) {
 
     wb <- xlsxformat(wb, namxlsx = paste0(
                          "Meetup_Data_", meetupgrp_name),
-                         wksht_name = "Attendees_since_2018",
-                         df_inxlsx = all_yesfrm2, nxlsx = 1, max_nxlsx = 3)
+                         wksht_name = "Attendees",
+                         df_inxlsx = all_yesfrm2, nxlsx = 1, max_nxlsx = 4)
+    wb <- xlsxformat(wb, namxlsx = paste0(
+                         "Meetup_Data_", meetupgrp_name),
+                         wksht_name = "Events",
+                         df_inxlsx = event_frm, nxlsx = 2, max_nxlsx = 4)
     wb <- xlsxformat(wb, namxlsx = paste0(
                          "Meetup_Data_", meetupgrp_name),
                          wksht_name = "All_Members",
-                         df_inxlsx = all_members2, nxlsx = 2, max_nxlsx = 3)
+                         df_inxlsx = all_members2, nxlsx = 3, max_nxlsx = 4)
     wb <- xlsxformat(wb, namxlsx = paste0(
                          "Meetup_Data_", meetupgrp_name),
                          wksht_name = "Summary_Stats",
-                         df_inxlsx = summary_frm, nxlsx = 3, max_nxlsx = 3)
+                         df_inxlsx = summary_frm, nxlsx = 4, max_nxlsx = 4)
+
+    ## Note side effects
+    assign("meetupxl_attendees", all_yesfrm2, envir = .GlobalEnv)
+    assign("meetupxl_events", event_frm, envir = .GlobalEnv)
+    assign("meetupxl_all_members", all_members, envir = .GlobalEnv)
+    # Careful with this line - overwrite risk
+    # saveRDS(all_members, "data-raw/TriPASS_meetupxl.rds")
 
     animate_frm <- all_members %>%
-      # mutate(yearmon_var = tsibble::yearmonth(joined_date)) %>%
       mutate(yearmon_varc = zoo::as.yearmon(joined_date)) %>%
       mutate(yearmon_var  = zoo::as.Date(yearmon_varc)) %>%
       arrange(yearmon_var) %>%
@@ -164,7 +174,7 @@ meetupxlanimate <- function(meetupgrp_name) {
           axis.text.y = element_text(face = "bold", size = 14)
         ) +
         geom_point() +
-        transition_reveal(yearmon_varc) +
+        transition_reveal(yearmon_var) +
         coord_cartesian(clip = 'off') +
         # adjust the x axis breaks
         scale_x_date(date_breaks = "6 months", date_labels = "%Y-%m",
@@ -183,4 +193,5 @@ meetupxlanimate <- function(meetupgrp_name) {
     anim_save(animation = animation_plot,
               filename = paste0(meetupgrp_name, "_anim_members.gif"),
               width=1140,height=828)
+    invisible(all_yesfrm)
 }

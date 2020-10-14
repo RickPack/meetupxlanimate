@@ -1,0 +1,225 @@
+"event_name","event_date","rsvp_yes_count"
+" Data Virtualization with PolyBase by Kevin Feasel",2019-08-13,26
+" Empowered by Alteryx: A data analytics journey from the lab bench to healthcare",2019-09-24,14
+" New Features and New Speed in SQL Server 2016 (and 2017!) Always On AGs",2018-09-18,20
+"**SPECIAL NIGHT** - SQL Server R Services In SQL 2016",2016-12-08,34
+"24 Hours Of PASS",2016-09-07,6
+"A Beginner's Guide To Plan Guides",2018-01-16,27
+"A behind the scenes look at AI, ML, and DL for the Data Professional",2020-01-28,60
+"A Brief Look at ML.Net",2019-05-28,24
+"A Deep Dive into Persistent Memory Features in SQL Server 2019 by Brian Carrig",2019-11-12,22
+"Adaptive Query Processing with Azure SQL DB and SQL Server 2017",2017-08-08,38
+"Advanced DBA:  Azure Managed Instances",2018-10-09,23
+"Advanced DBA:  The Optimizer Secrets Of Trace Flag 86xx",2017-07-10,37
+"Advanced DBA: Columnstore Indexes: What are we waiting for?",2018-11-13,20
+"Advanced DBA: Ensuring Plan Stability with Query Store and Automatic Tuning",2017-09-12,30
+"Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun",2020-09-16,43
+"Advanced SQL Server troubleshooting with SQLCallStackResolver",2019-02-12,23
+"All Things SQL In the Microsoft Cloud by David Klee",2020-03-10,33
+"Always Encrypted",2018-10-16,17
+"An Introduction to GitHub for Data Professionals",2019-09-17,37
+"Applications of Hashbytes and Compress Functions",2019-03-19,29
+"Approaching Zero:  Minimizing Downtime During Deployments",2019-07-16,25
+"August Triangle SQL Server User Group Meeting",2012-08-22,2
+"Automating Power BI Deployments",2019-02-19,24
+"AWS vs. Azure:  What's the Difference for a DBA?",2020-04-07,45
+"Azure Data Studio is not Replacing SSMS",2019-09-10,26
+"Azure Synapse Analytics:  A Data Lakehouse",2020-08-11,40
+"Beyond The Install:  Monitoring Availability Groups",2017-09-19,24
+"Bonus Stream:  Becoming Ever More Intimate with your Indexes by Jason Brimhall",2020-04-08,52
+"Build your brand with technical writing",2020-08-18,34
+"Building a Custom SQL Server on Containers Image for Deployment",2020-01-14,40
+"Chaos Engineering for SQL Server",2019-12-10,25
+"Characteristics of a Great Relational Database By Louis Davidson",2019-12-17,28
+"Classification With Naive Bayes",2018-08-28,24
+"Consistent Deployments / Team Development",2018-08-21,31
+"Data Architecture Day 2020",2020-05-16,84
+"Data Science Meetup:  An Introduction To Azure Machine Learning",2017-04-25,40
+"Data Science Meetup:  Data Cleansing With SQL And R",2017-02-28,59
+"Data Science Meetup:  Getting a Handle on Distributions",2017-07-25,28
+"Data Science Meetup:  Hackathon",2017-06-27,17
+"Data Science Meetup:  Head to the Cloud",2017-03-28,40
+"Data Science Meetup:  Introduction",2017-01-24,57
+"Data Science Meetup:  Recommender Systems",2017-05-23,33
+"Data Science Meetup:  Using ggplot2",2018-05-22,13
+"Data Science:  $ML",2018-04-24,37
+"Data Science:  An Introduction to k-nearest neighbor (k-NN)",2017-08-29,28
+"Data Science:  Applying Data Science fundamentals to Stock Market Data",2017-10-24,44
+"Data Science:  Applying Forensic Accounting Techniques Using SQL And R",2017-09-26,37
+"Data Science:  Building A Neural Network With Keras In R",2018-02-27,17
+"Data Science:  ggplot2 And quasiquotation",2018-06-26,11
+"Data Science:  Grokking the Grammar of Graphics",2018-07-31,22
+"Data Science:  Keras and TensorFlow",2019-06-25,20
+"Data Science:  Linear Regression",2018-09-25,22
+"Data Science:  Sequential Data Modeling With LSTM",2018-01-30,38
+"Data Science:  SQL Server Machine Learning Services in Production",2019-03-26,29
+"Data Science:  Stacking Audience Models",2019-02-26,29
+"Data Science: Jupyter Notebooks",2018-10-23,15
+"Database Corruption! Preventing Disaster to your Database.",2018-07-17,21
+"Database Project Makes Deployment Consistent",2017-07-18,33
+"Deadlocking for Mere Mortals by Jonathan Kehayias",2018-04-10,29
+"December Triangle SQL Server User Group Meeting",2012-12-18,1
+"Designing a Modern Data Warehouse + Data Lake",2017-01-17,52
+"Developing a Solution with SQL Server Machine Learning Services",2020-05-19,45
+"DevOps and Decoys: Automation with Azure by Kellyn Pot'Vin-Gorman",2019-03-12,27
+"DevOps: Consistent Deployments / Team Development",2020-03-17,31
+"Dynamic Search Conditions by Erland Sommarskog",2020-06-05,57
+"Erzsebet Szabo Going Away",2015-06-29,3
+"Execution Plans:  What Else Can They Do? by Grant Fritchey",2020-02-11,31
+"Extended Events",2016-11-15,30
+"Eyes On The Prize:  Simple And Effective Dashboard Visualization Techniques",2017-12-19,38
+"Getting Started With Apache Spark",2018-12-18,43
+"Going Asynchronous With Service Broker",2018-03-20,29
+"Going Beyond the Basics with Query Store with Joseph Fleming",2020-04-14,28
+"Google Summer of Code Mentorship: Data-Driven Exploration of the R Community",2019-10-22,7
+"HADR Licensing changes with SQL Server 2019",2020-07-14,29
+"HADR Licensing changes with SQL Server 2019",2020-07-15,10
+"How to compare a forecast with probabilities and a forecast with quantities",2019-08-27,26
+"Inside Kubernetes: An Architectural Deep Dive By Anthony Nocentino",2019-05-14,28
+"IoT and Machine Learning in Azure",2020-07-28,28
+"July SQL Server User Group Meeting",2012-07-17,1
+"Lessons Learned From SQL Server 2016",2016-09-20,32
+"March Triangle SQL Server User Group Meeting",2013-03-19,4
+"Measure Twice, cut once: Intro to unit testing with tSQLt",2018-09-11,18
+"Microsoft Power BI Roadshow",2016-02-13,9
+"Migrating to In-Memory OLTP",2018-06-19,14
+"Modern CPU Architecture and SQL Server Performance by David Klee",2019-10-08,12
+"Module Signing or: How I Learned to Stop Using EXECUTE AS and Love Certificates",2017-11-21,22
+"Moving Data with Azure Data Factory",2019-08-20,22
+"Never Say Hacking SQL Server Again by Andre Melancia",2019-06-11,29
+"One Bite at a Time: Deleting Millions of Rows from Production System",2020-05-12,39
+"Online: AI For Good: Cognitive Services Vision",2020-03-24,15
+"Open Query Store (Web-Only)",2018-12-11,12
+"Optimizing Backup Performance Using Data Science Techniques",2019-11-19,23
+"Oracle vs. SQL, the War of the Indices by Kellyn Pot'Vin-Gorman",2018-01-09,38
+"Power BI Meetup",2016-05-19,3
+"Power Query - Advanced Data Transformation Techniques",2017-10-17,38
+"Powershell For The DBA",2016-10-18,38
+"Profiling Your Data",2019-01-15,37
+"Quantum Computing Without Too Much Math",2019-04-23,14
+"R as interface for analysis in databases",2020-09-01,45
+"Real-time Sentiment Prediction in SQL Server by Hiram Fleitas",2020-02-25,18
+"Roles and Responsibilities of the Azure Data Engineer by Jes Schultz",2020-04-21,50
+"Running SQL Server In AWS",2017-02-21,51
+"Scaling OLTP Workloads with Containers by Chris Adkin",2019-01-08,25
+"September Triangle SQL Server User Group Meeting",2012-09-18,2
+"Setting Up SQL Audit -- Steps to Success by Mark Gordon",2020-02-18,31
+"Shaving off Microseconds by Thomas Grohser ",2018-02-13,30
+"Shop Talk",2020-04-06,17
+"Shop Talk",2020-04-13,16
+"Shop Talk",2020-04-20,3
+"Shop Talk",2020-04-27,10
+"Shop Talk",2020-05-04,10
+"Shop Talk",2020-05-11,16
+"Shop Talk",2020-05-18,15
+"Shop Talk",2020-06-01,25
+"Shop Talk",2020-06-08,15
+"Shop Talk",2020-06-15,12
+"Shop Talk",2020-06-22,15
+"Shop Talk",2020-06-29,7
+"Shop Talk",2020-07-06,16
+"Shop Talk",2020-07-13,17
+"Shop Talk",2020-07-20,14
+"Shop Talk",2020-07-27,15
+"Shop Talk",2020-08-03,10
+"Shop Talk",2020-08-10,12
+"Shop Talk",2020-08-17,14
+"Shop Talk",2020-08-24,13
+"Shop Talk",2020-08-31,13
+"Shop Talk",2020-09-14,11
+"Shop Talk",2020-09-21,17
+"Shop Talk",2020-09-28,9
+"Shop Talk",2020-10-05,12
+"Shop Talk",2020-10-12,10
+"Should This Be Normalized?",2018-05-15,28
+"Social Media Marketing Blitz: Data Analysis",2018-03-27,23
+"SQL Graph Revealed",2019-05-21,35
+"SQL Saturday #320 - Raleigh, NC",2014-09-06,78
+"SQL Saturday Charlotte",2016-09-17,10
+"SQL Saturday Raleigh",2015-10-10,57
+"SQL Saturday Raleigh 2017",2017-03-11,57
+"SQL Saturday Raleigh 2018",2018-04-14,76
+"SQL Saturday Raleigh 2018 Planning Meeting",2017-10-17,10
+"SQL Saturday Raleigh 2019",2019-04-27,60
+"SQL Saturday Raleigh 2019 - Planning Meeting",2018-12-05,10
+"SQL Saturday Raleigh 2020 - Planning Meeting",2019-11-14,10
+"SQL Saturday Raleigh Debrief",2015-10-20,5
+"SQL Saturday Raleigh Launch Meeting",2016-01-19,20
+"SQL Saturday Raleigh Planning Meeting",2020-02-26,10
+"SQL Saturday Raleigh Post-Event Debrief",2017-03-21,13
+"SQL Saturday Raleigh Recap and Review",2019-05-21,19
+"SQL Saturday Raleigh Volunteer Meeting",2017-11-09,18
+"SQL Saturday Raleigh Volunteer Meeting",2018-01-11,14
+"SQL Saturday Raleigh Volunteer Meeting",2019-02-19,13
+"SQL Saturday Raleigh Volunteer Meeting",2019-04-01,12
+"SQL Saturday Volunteer Meeting",2015-05-19,13
+"SQL Saturday Volunteer Meeting",2015-09-15,11
+"SQL Server 2019: What's New, What's Great, What's Amazing",2019-04-09,42
+"SQL Server and PowerShell: Let's Get Serious",2018-02-20,24
+"SQL Server Environmental Troubleshooting Guide",2017-06-20,31
+"SQL Server Launch 2016 Discovery Day",2016-06-11,27
+"SQL Server Notebooks (Thursday Meeting!)",2019-04-18,18
+"Stored Procs Rule, Ad Hoc Drools by Dale Burnett",2019-10-15,15
+"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",2020-06-09,53
+"The Case of the Slow Temp Table: A Performance Tuning Problem By Kendra Little",2018-07-10,26
+"The Cortana Intelligence Suite",2017-05-16,19
+"The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics ",2020-04-28,38
+"The SQL Server Performance Tasting Menu",2020-01-21,34
+"The Wizard of Module Signing: Signatures and Certs and Asymmetric Keys. Oh My!",2017-12-12,19
+"Transaction processing for In-Memory OLTP by Ned Otter",2018-03-13,16
+"Triangle SQL Server UG Meeting",2014-06-17,30
+"Triangle SQL Server UG Meeting",2014-07-15,33
+"Triangle SQL Server UG Meeting",2014-08-19,38
+"Triangle SQL Server UG Meeting",2014-09-16,28
+"Triangle SQL Server UG Meeting",2014-10-21,35
+"Triangle SQL Server UG Meeting",2014-11-18,39
+"Triangle SQL Server UG Meeting",2015-01-20,45
+"Triangle SQL Server UG Meeting",2015-02-17,28
+"Triangle SQL Server UG Meeting",2015-03-17,33
+"Triangle SQL Server UG Meeting",2015-04-21,30
+"Triangle SQL Server UG Meeting",2015-05-19,36
+"Triangle SQL Server UG Meeting",2015-06-16,34
+"Triangle SQL Server UG Meeting",2015-07-21,37
+"Triangle SQL Server UG Meeting",2015-08-18,34
+"Triangle SQL Server UG Meeting",2015-09-15,21
+"Triangle SQL Server UG Meeting",2015-10-20,27
+"Triangle SQL Server UG Meeting",2015-11-17,21
+"Triangle SQL Server UG Meeting",2015-12-15,33
+"Triangle SQL Server UG Meeting",2016-01-19,30
+"Triangle SQL Server UG Meeting",2016-02-16,33
+"Triangle SQL Server UG Meeting",2016-03-15,32
+"Triangle SQL Server UG Meeting",2016-04-19,33
+"Triangle SQL Server UG Meeting",2016-05-17,32
+"Triangle SQL Server UG Meeting",2016-06-21,27
+"Triangle SQL Server UG Meeting",2016-07-19,29
+"Triangle SQL Server UG Meeting",2016-08-16,15
+"Triangle SQL Server UG Meeting | Carolina Cruise with Grant Fritchey",2014-05-20,40
+"Triangle SQL Server User Group Meeting",2012-10-15,2
+"Triangle SQL Server User Group Meeting",2012-11-20,3
+"Triangle SQL Server User Group Meeting",2013-01-15,1
+"Triangle SQL Server User Group Meeting",2013-02-19,5
+"Triangle SQL Server User Group Meeting",2013-04-23,6
+"Triangle SQL Server User Group Meeting",2013-05-28,8
+"Triangle SQL Server User Group Meeting",2013-06-18,20
+"Triangle SQL Server User Group Meeting",2013-07-16,13
+"Triangle SQL Server User Group Meeting",2013-08-20,29
+"Triangle SQL Server User Group Meeting",2013-09-17,27
+"Triangle SQL Server User Group Meeting",2013-11-19,23
+"Triangle SQL Server User Group Meeting",2013-12-17,24
+"Triangle SQL Server User Group Meeting",2014-02-17,28
+"Triangle SQL Server User Group Meeting",2014-03-27,35
+"Triangle SQL Server User Group Meeting",2014-04-15,37
+"TriPASS Data Science:  Spark.NET",2019-07-23,14
+"TriPASS Incorporation Introductory Meeting",2016-01-14,9
+"Tuning Indexes to Avoid Blocking by Brent Ozar",2018-06-12,31
+"Use Biml to Automate SSIS Design Patterns",2017-04-18,24
+"Using DMVs for Performance Root Cause",2017-03-21,19
+"Using Extended Events to Expose Application Performance Issues by Mindy Curnutt",2017-10-10,34
+"Using Open Source Products to Collect Performance Metrics",2018-11-20,30
+"What I'm Telling Your Developers About Database DevOps",2020-07-21,32
+"What Is Power BI?",2017-08-15,45
+"What You Need to Know to Administer Power BI by Melissa Coates",2020-06-16,48
+"Why I Use Cursors in SQL",2019-06-18,32
+"Writing Advanced Functions in PowerShell",2017-11-14,34
+"XE Deep Dive by Jason Brimhall",2019-07-09,16
+"You're Stuck with Crappy Hardware, Now What? by Monica Rathbun",2018-05-08,24

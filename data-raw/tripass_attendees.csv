@@ -1,0 +1,531 @@
+﻿name,bio,id,most_recent_event_name,most_recent_event_date,events_attended_num
+Kevin Feasel,"CTO at Envizage, LLC.  Data Platform MVP.",100758142,Shop Talk,10/12/2020,124
+Mi Thomas,,11320625,Shop Talk,10/5/2020,104
+Solomon Rutzky,"I specialize in SQL Server development, data modeling, performance tuning, SQLCLR, collations, and module signing. I founded https://SqlQuantumLift.com/ , wrote the SQL# SQLCLR library ( https://SQLsharp.com/ ), and blog @ https://SqlQuantumLeap.com/",96873222,Shop Talk,10/12/2020,89
+Mike Lisanke,,3768471,Shop Talk,10/12/2020,76
+Anders Pedersen,,217933267,Shop Talk,9/28/2020,66
+Mala Mahadevan,,222177864,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,59
+Tom Norman,"I am ArmorDba and I live in Raleigh, NC.  I am the leader of the PASS Virtualization Virtual Group.",154774102,Shop Talk,10/5/2020,56
+Mark Gordon,Work as DB Developer and DBA for Capgemini. Have been using SQL since 6.5,96859322,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,49
+Raymond Porrata,,8043648,Shop Talk,10/12/2020,49
+Thomas - The Danish Dynamo,"Good luck trying to make computers run the business, and pigs fly",4068490,Shop Talk,9/21/2020,49
+len boyle,,58633862,R as interface for analysis in databases,9/1/2020,47
+Kevin Wood,,698341,R as interface for analysis in databases,9/1/2020,45
+Tracy Boggiano,Database Administrator with ChannelAdvisor,96902142,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,43
+Joshua Stubbolo,,202300692,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,39
+Susan,,80202102,Shop Talk,8/31/2020,39
+Ikshwak Reddy Kuchikulla,,262909802,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,35
+Jim Gill,,106449132,IoT and Machine Learning in Azure,7/28/2020,33
+Nqabeni Simela,,225353840,Shop Talk,10/12/2020,32
+Denise Yu,,103589662,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,31
+David Stokes,,190864536,Shop Talk,10/12/2020,30
+mark hutchinson,,253655,R as interface for analysis in databases,9/1/2020,29
+Rob Radcliff,,2585471,What I'm Telling Your Developers About Database DevOps,7/21/2020,29
+Tommy Brickle,,195399689,Shop Talk,10/5/2020,27
+Bill King,I work as a SQL Server Developer and DBA. Have used and been certified in various versions of SQL Server since v6.5.,101949372,DevOps: Consistent Deployments / Team Development,3/17/2020,26
+"John Zhang, CFA",,240201270,Shop Talk,7/27/2020,26
+Srikar Reddy Kasireddy,,147698542,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,26
+Chris Voss,Business Intelligence Developer/Analyst. Part of the MS data world since 2010.,19164681,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,25
+Michael Chrestensen,,8452858,R as interface for analysis in databases,9/1/2020,25
+Ganapathy hari,,192001888,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,24
+Jeff Nowiski,,140577272,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,24
+Rick Pack,"Data scientist (R and SAS), master's track, Facebook marketing",20343601,R as interface for analysis in databases,9/1/2020,23
+Joel Abrahams,,48039732,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,22
+RK Sambangi,,66536022,R as interface for analysis in databases,9/1/2020,21
+A Luthra,,53480832,Shop Talk,8/3/2020,19
+Chintan Gandhi,,236609505,What I'm Telling Your Developers About Database DevOps,7/21/2020,19
+Curtis Bragdon,"I've been working with SQL Server for over 10+ years. My interest are database performance and security.
+
+Microsoft Certified Database Administrator
+
+Certified Information Systems Auditor (CISA)
+
+Certified Information Security Manager (CISM)",142996282,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,19
+Ahmad Tariq,,100467592,IoT and Machine Learning in Azure,7/28/2020,18
+James G.,,100716992,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,18
+Marshall Smith,,278618359,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,18
+Sandeep Siddhi,,224517395,R as interface for analysis in databases,9/1/2020,17
+Tam P.,,208949468,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,17
+Alec Graham,,9458579,The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics ,4/28/2020,16
+Carol Files,,198836661,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,16
+Jen,,248492034,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,16
+=tg= Thomas Grohser,,197767314,Shop Talk,10/12/2020,15
+Andrea Reif,I do sql server reporting / Business Intelligence ETL / some web development for the insurance industry.  I'm interested in learning more about SSIS and SSAS and other business intelligence related functionality as well as performance tuning.,7855273,Roles and Responsibilities of the Azure Data Engineer by Jes Schultz,4/21/2020,15
+Doug Kline,"fixing databases, then disappearing, like a candle going out",209471913,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,15
+Dong Chen,,54092072,Build your brand with technical writing,8/18/2020,14
+Sam Brennen-Lisko,I'm me. ,250498504,The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics ,4/28/2020,14
+Steve Few,,12784033,R as interface for analysis in databases,9/1/2020,14
+Jared Poche,A Database Engineer for ChannelAdvisor with experience as a Microsoft Sr. Support Escalation Engineer and former college instructor.,116039672,Build your brand with technical writing,8/18/2020,13
+Monika Shah,,277677967,Shop Talk,9/21/2020,13
+Brian Carrig,Manage a team of extremely talented DBAs @ ChannelAdvisor,117789112,Profiling Your Data,1/15/2019,12
+Charles Allan Jaeger,,77127922,The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics ,4/28/2020,12
+Rafał Salamon,,305210316,Shop Talk,9/21/2020,12
+Vanessa P.,,112922582,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,12
+Arvind Bhat,,237278822,IoT and Machine Learning in Azure,7/28/2020,11
+Blake McNeill,,216323213,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,11
+Conrad D'Cruz,"I am solutions architect, technical PM and BA.  I am interested in the Big data applications for SQL Server.",5405973,R as interface for analysis in databases,9/1/2020,11
+Joseph Nyamweya,,192789892,Developing a Solution with SQL Server Machine Learning Services,5/19/2020,11
+Mark,,11922786,A Brief Look at ML.Net,5/28/2019,11
+Suzanne Flaherty,I am a SQL Server/Front-End/Application/Reporting/BI developer.  Always looking to meet more folks in the field and expand my knowledge.  I love what I do!,59480202,Quantum Computing Without Too Much Math,4/23/2019,11
+Tony Jenkens,,111944652,Bonus Stream:  Becoming Ever More Intimate with your Indexes by Jason Brimhall,4/8/2020,11
+Doug Kline,New to the group - coming up from Wilmington.,58488822,SQL Saturday Raleigh 2019,4/27/2019,10
+Doug Purnell,"SQL Server DBA at Elon University, Nikon amateur photographer, runner, and technology guy.",152398832,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,10
+Elaine Cahill,Microsoft Certified Solutions Developer. Currently work with SQL Server 2016 Follow me on Twitter @dotnetdiva.,118543762,R as interface for analysis in databases,9/1/2020,10
+Martin Catherall,,18647341,What I'm Telling Your Developers About Database DevOps,7/21/2020,10
+SatishTakkalapalli,"I am an IT professional and currently working as SQL Server Developer, in Cary.Love to learn and experiment new features.",209023314,Consistent Deployments / Team Development,8/21/2018,10
+suresh malluri,,157914832,All Things SQL In the Microsoft Cloud by David Klee,3/10/2020,10
+Arun Thinakaran,,271011839,DevOps: Consistent Deployments / Team Development,3/17/2020,9
+David Jones,,300872761,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,9
+Eric Radt,,12688659,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,9
+Jacques Rioux,,47394302,R as interface for analysis in databases,9/1/2020,9
+Justin Wang,,200047438,Data Science:  SQL Server Machine Learning Services in Production,3/26/2019,9
+Keith Tubbs,,263779715,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,9
+Ling Mao,,230745126,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,9
+Sanjay,,120168772,Shop Talk,9/21/2020,9
+Alex,Database architect and developer at NetApp,14091628,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,8
+Fernando Toledo,,251509853,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,8
+Jay Johnson,"Geographic information systems SME, sometimes a SQL Server administrator",41797712,Shop Talk,7/27/2020,8
+Jim Jin,,280116377,Bonus Stream:  Becoming Ever More Intimate with your Indexes by Jason Brimhall,4/8/2020,8
+Julian,,93854742,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,8
+Kay Yang,BI Developer,9765216,All Things SQL In the Microsoft Cloud by David Klee,3/10/2020,8
+Naveen Baskaran,,212176732,Data Science:  Keras and TensorFlow,6/25/2019,8
+Robert Morawski,,194441229,Data Architecture Day 2020,5/16/2020,8
+Srinivas Kolluru,,200826746,R as interface for analysis in databases,9/1/2020,8
+Sukru Kocaman,,221092022,Developing a Solution with SQL Server Machine Learning Services,5/19/2020,8
+Wu,,256436640,Scaling OLTP Workloads with Containers by Chris Adkin,1/8/2019,8
+Zeydy Ortiz,,118406472,R as interface for analysis in databases,9/1/2020,8
+Adam Verdin,,199779481,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,7
+akhil mahajan,,8881374,Build your brand with technical writing,8/18/2020,7
+Angela,,170587432,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,7
+Charles Bachmann,Software developer working with Fujitsu America,62876992,Roles and Responsibilities of the Azure Data Engineer by Jes Schultz,4/21/2020,7
+Charlie Sheets,,10604556,Bonus Stream:  Becoming Ever More Intimate with your Indexes by Jason Brimhall,4/8/2020,7
+Deepak A,,250366596,Developing a Solution with SQL Server Machine Learning Services,5/19/2020,7
+Gupta,,21098501,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,7
+John,,203744111,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,7
+John McDonald,,263082462,Shop Talk,10/12/2020,7
+Jose,,66621122,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,7
+Kevin Harrison,,238094777,AWS vs. Azure:  What's the Difference for a DBA?,4/7/2020,7
+Livia Zhao,,302378923,Data Architecture Day 2020,5/16/2020,7
+Matt C.,,207858243,"You're Stuck with Crappy Hardware, Now What? by Monica Rathbun",5/8/2018,7
+Mike Burek,,7836815,R as interface for analysis in databases,9/1/2020,7
+Patrick Krapf,,197820544,Azure Data Studio is not Replacing SSMS,9/10/2019,7
+Rich Bowen,,12131878,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,7
+ROHAAN,"SQL Server Admin working for DMA-DHHS State of NC, Raleigh.",111548192,Migrating to In-Memory OLTP,6/19/2018,7
+Tom Warren,"Part Time Database Developer, SQL Jedi in-training, IT Generalist; Social Science Researcher; Spanish-speaker; Son, Husband, Father; Outdoor Recreationalist...",180853052,Profiling Your Data,1/15/2019,7
+Aria Chang,,191415729,IoT and Machine Learning in Azure,7/28/2020,6
+Chinaemeze (Chin) Chukuezi,"You may also review my online portfolio at: 
+
+- http://chinchukuezi.mayzaymedia.com",214757211,SQL Saturday Raleigh 2019,4/27/2019,6
+Deepthi Goguri,,306809156,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,6
+Derek,Professional database administrator currently working in software development with utilities and energy.,90193842,Data Architecture Day 2020,5/16/2020,6
+karthik vanama,,72158342,DevOps: Consistent Deployments / Team Development,3/17/2020,6
+Lars Rasmussen,,184544569,Profiling Your Data,1/15/2019,6
+Lauren C Johnson,,11522269,"Stored Procs Rule, Ad Hoc Drools by Dale Burnett",10/15/2019,6
+michael wharton,"Michael Wharton, Project MVP and Computer Whisper",6295550,What I'm Telling Your Developers About Database DevOps,7/21/2020,6
+Randy Rabin,"Senior DBA/Architect for Clearwater Analytics in beautiful Boise, Idaho. Have been working with SQL Server since 1991.",95531692,Build your brand with technical writing,8/18/2020,6
+Rob Zelt,,1545584,R as interface for analysis in databases,9/1/2020,6
+Victor Barajas,,222859820,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,6
+Wes Springob,,89835922,Tuning Indexes to Avoid Blocking by Brent Ozar,6/12/2018,6
+Abhi,CTO at Patagonia Health. Working with SQL server for the last 10 years. ,2272971,Data Architecture Day 2020,5/16/2020,5
+Abhimanyu Jataria,,230324558,Social Media Marketing Blitz: Data Analysis,3/27/2018,5
+Andrew,,301650511,The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics ,4/28/2020,5
+Byron Barton,,26554992,HADR Licensing changes with SQL Server 2019,7/15/2020,5
+C,"Long time BA with experience in SQL Server and interest in learning more about this, BI and DW with a user group.",8029365,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,5
+Cal Jones,,36338032,HADR Licensing changes with SQL Server 2019,7/15/2020,5
+Chris Hyde,,69129912,Developing a Solution with SQL Server Machine Learning Services,5/19/2020,5
+Dale Burnett,I am an SQL Server developer in the financial services industry. My SQL Server career began in 1998 on version 6.5 and included a broad spectrum of IT disciplines. Since 2008 I have be dedicated solely to SQL Server development and data management.,10161079,AWS vs. Azure:  What's the Difference for a DBA?,4/7/2020,5
+David,,225243910,Data Architecture Day 2020,5/16/2020,5
+David Bang,,218288701,Scaling OLTP Workloads with Containers by Chris Adkin,1/8/2019,5
+Ed,,210242427,R as interface for analysis in databases,9/1/2020,5
+Eddie,,241951862,Always Encrypted,10/16/2018,5
+Gordana Vujec,,78212572,Database Corruption! Preventing Disaster to your Database.,7/17/2018,5
+jeff mcdermott,,1414099,Why I Use Cursors in SQL,6/18/2019,5
+Juliana Austin,,225102059,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,5
+karen,,11383766,Dynamic Search Conditions by Erland Sommarskog,6/5/2020,5
+Ken Wood,,68348412,R as interface for analysis in databases,9/1/2020,5
+Lucian Jakubowski,,131961052,Build your brand with technical writing,8/18/2020,5
+Marcelle,,249445496,Building a Custom SQL Server on Containers Image for Deployment,1/14/2020,5
+Margaret Link,SQL Server Developer for Cree,96881562,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,5
+Mark Howell,,185297558,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,5
+Nathan Woodbury,,282529446,A Deep Dive into Persistent Memory Features in SQL Server 2019 by Brian Carrig,11/12/2019,5
+Richard Ahmadi,,258592818,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,5
+Shailesh Kumar,,259538503,Shop Talk,8/10/2020,5
+Tiffany,,7975598,What I'm Telling Your Developers About Database DevOps,7/21/2020,5
+Yin-Ting Chou,,185052551,SQL Server Notebooks (Thursday Meeting!),4/18/2019,5
+Andrew Christensen,,260009774,Going Beyond the Basics with Query Store with Joseph Fleming,4/14/2020,4
+Bill W Evans,,244351353,Developing a Solution with SQL Server Machine Learning Services,5/19/2020,4
+Bodnár Gábor,,182792203,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,4
+Carlos García R.,,102325112,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,4
+Carlos Serrano,,230749637,HADR Licensing changes with SQL Server 2019,7/14/2020,4
+CJ Clarke,,45963762,Dynamic Search Conditions by Erland Sommarskog,6/5/2020,4
+Dan Kelly,,124682542,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,4
+Dhruv Sakalley,"Hi I am a software engineer, enthusiastic about working with .Net technologies and SQL Server and interacting with the community @ triangle",35318792,Data Science:  Keras and TensorFlow,6/25/2019,4
+Ed Oboyle,,251000418,Profiling Your Data,1/15/2019,4
+fer-D De-ramos,interested in leaning new things,11643452,Data Architecture Day 2020,5/16/2020,4
+Fred Theron,,137262112,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,4
+Joe Murphy,,160277602,Why I Use Cursors in SQL,6/18/2019,4
+keerthi pamraj,,230129523,Data Architecture Day 2020,5/16/2020,4
+Michael Igbinigun,,279592734, Data Virtualization with PolyBase by Kevin Feasel,8/13/2019,4
+Padma Singitham,,238675252,Consistent Deployments / Team Development,8/21/2018,4
+Ranga Narasimhan,"SQL DBA/Architect...do mostly schema design, performance tuning troubleshooting sql problems...enjoy what I do!",14903681,Building a Custom SQL Server on Containers Image for Deployment,1/14/2020,4
+Richard Scott,Love starting companies and developing enterprise systems using MS SQL and .NET MVC and JQuery,80990502,Tuning Indexes to Avoid Blocking by Brent Ozar,6/12/2018,4
+Ross Borasy,,91908552,Setting Up SQL Audit -- Steps to Success by Mark Gordon,2/18/2020,4
+Steven Bastarache,,57534622, Empowered by Alteryx: A data analytics journey from the lab bench to healthcare,9/24/2019,4
+Susan Thompson,,312237177,Shop Talk,9/14/2020,4
+swan,,255376572,SQL Saturday Raleigh 2019,4/27/2019,4
+Vinay Manikanda,"Sr Sw Eng, Database Development at Citrix Systems",194004216,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,4
+Vishal Bahedia,,215308111,Characteristics of a Great Relational Database By Louis Davidson,12/17/2019,4
+Adam Rogers,,93606892,Getting Started With Apache Spark,12/18/2018,3
+Adrian Gherca,,211280603,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,3
+Alan Day,,306263501,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,3
+Amelia G,,248155699,Data Science:  $ML,4/24/2018,3
+Amy Bohlayer,,272155682,Why I Use Cursors in SQL,6/18/2019,3
+Andrea E,,2512935,R as interface for analysis in databases,9/1/2020,3
+Anthony Alford,,58740472,Build your brand with technical writing,8/18/2020,3
+aperaka,,221172632,SQL Saturday Raleigh 2019,4/27/2019,3
+Arjun Sivadasan,,91317142,R as interface for analysis in databases,9/1/2020,3
+ashish nagar,,69579672,Going Beyond the Basics with Query Store with Joseph Fleming,4/14/2020,3
+Deepak Agarwal,SQL Server Developer,141649452,Data Science:  Linear Regression,9/25/2018,3
+Derek,,147959012,Data Science:  SQL Server Machine Learning Services in Production,3/26/2019,3
+Doug Lucas,,275676387,Why I Use Cursors in SQL,6/18/2019,3
+Elaine Farstad,Hi I'm Elaine. Local Data Architect -- primarily SQL Server and Oracle platforms.,9981048,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,3
+Emiliano,,14421797,How to compare a forecast with probabilities and a forecast with quantities,8/27/2019,3
+Erica Dixon,,68893142,SQL Saturday Raleigh 2019,4/27/2019,3
+Eshaan Kirpal,,138170942,A Brief Look at ML.Net,5/28/2019,3
+Fred Elsenbary,,207430643,Developing a Solution with SQL Server Machine Learning Services,5/19/2020,3
+Gayle,,226967718,The SQL Server Performance Tasting Menu,1/21/2020,3
+Grant King,,271211032,Never Say Hacking SQL Server Again by Andre Melancia,6/11/2019,3
+H Dhingra,,220864013,An Introduction to GitHub for Data Professionals,9/17/2019,3
+Haley Robinson,,13887421,Setting Up SQL Audit -- Steps to Success by Mark Gordon,2/18/2020,3
+himanshu,,9918933,"Stored Procs Rule, Ad Hoc Drools by Dale Burnett",10/15/2019,3
+Irina Kitaeva (MikiD),,7093943,Setting Up SQL Audit -- Steps to Success by Mark Gordon,2/18/2020,3
+Irshad,,183951718,R as interface for analysis in databases,9/1/2020,3
+J. A.,,147842322,Shop Talk,7/27/2020,3
+Jae K.,,210371407,Always Encrypted,10/16/2018,3
+Jerry Li,,271018667,Characteristics of a Great Relational Database By Louis Davidson,12/17/2019,3
+John Hayes,,188817437,A Brief Look at ML.Net,5/28/2019,3
+John Panagiotopoulos,,209107598,Shop Talk,10/5/2020,3
+Kenneth Edwards,,8268907,Dynamic Search Conditions by Erland Sommarskog,6/5/2020,3
+Kevin,,159452392,Never Say Hacking SQL Server Again by Andre Melancia,6/11/2019,3
+kmyers,,164418862,Shop Talk,8/24/2020,3
+Kurt ,"30 years in the industry, DBA-like activities as part of my job at present",115344672,Data Architecture Day 2020,5/16/2020,3
+Kurt Yokum,,304196920,What I'm Telling Your Developers About Database DevOps,7/21/2020,3
+Leonardo Merza,,90986102,SQL Saturday Raleigh Recap and Review,5/21/2019,3
+Marc Bouchard,,210859003, New Features and New Speed in SQL Server 2016 (and 2017!) Always On AGs,9/18/2018,3
+Mark Hogan,,141145252,Data Science:  Linear Regression,9/25/2018,3
+Michael,,209548819,All Things SQL In the Microsoft Cloud by David Klee,3/10/2020,3
+Patricia Dunham,,230742231,Database Corruption! Preventing Disaster to your Database.,7/17/2018,3
+Paula Mabunga,I am always looking to learn more about SQL Server.,15937151,HADR Licensing changes with SQL Server 2019,7/14/2020,3
+Rabia Omer,,282371201,Real-time Sentiment Prediction in SQL Server by Hiram Fleitas,2/25/2020,3
+Ram,,233705122,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,3
+Rodney Thompson,,296425566,Shop Talk,4/27/2020,3
+Rolliene Mallari,,92462292,Real-time Sentiment Prediction in SQL Server by Hiram Fleitas,2/25/2020,3
+Sagar Thakore,,248349107,A Brief Look at ML.Net,5/28/2019,3
+Sherri,,7249385,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,3
+Shri Vidhale,,260962317,Shop Talk,9/21/2020,3
+Stephen Bohlayer,I'm a web developer who loves working in Angular 2.,198840633,Why I Use Cursors in SQL,6/18/2019,3
+Stuart Broach,,280138792,Setting Up SQL Audit -- Steps to Success by Mark Gordon,2/18/2020,3
+Sumit Sengupta,,60024492,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,3
+Vandana,,298718162,Data Architecture Day 2020,5/16/2020,3
+Venu Sanka,,245289031,SQL Saturday Raleigh 2019,4/27/2019,3
+Wade Brooks,,47491622,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,3
+William Fetzner,,283515936,TriPASS Data Science:  Spark.NET,7/23/2019,3
+Aaron Marcus,,301979840,What I'm Telling Your Developers About Database DevOps,7/21/2020,2
+Aliasghar Marjani,,239756223,Data Science:  Grokking the Grammar of Graphics,7/31/2018,2
+Allen Moore,,9982434,Should This Be Normalized?,5/15/2018,2
+Andre Le Roux,,198923030,Tuning Indexes to Avoid Blocking by Brent Ozar,6/12/2018,2
+Andrew Ferko,,310468568,Build your brand with technical writing,8/18/2020,2
+Anthony Saltis,I'm a Junior DBA at NC Wildlife.,144596922,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,2
+Ashley Harris,,257118254,R as interface for analysis in databases,9/1/2020,2
+Bala Rajagopal,,51180162,Data Architecture Day 2020,5/16/2020,2
+Ben Miller,,101577172,Going Beyond the Basics with Query Store with Joseph Fleming,4/14/2020,2
+Brian,,254653716,Migrating to In-Memory OLTP,6/19/2018,2
+Bryan Shalloway,,57666102,R as interface for analysis in databases,9/1/2020,2
+Candisha Brummell,,299595524,The SQL Server Performance Tasting Menu,1/21/2020,2
+Cash,,6094061,How to compare a forecast with probabilities and a forecast with quantities,8/27/2019,2
+Chetan Jain,,194018123,Shop Talk,9/21/2020,2
+Chris i,,203427312,Characteristics of a Great Relational Database By Louis Davidson,12/17/2019,2
+Danny Gershman,,8010685,Data Science:  Grokking the Grammar of Graphics,7/31/2018,2
+Dave Guerra,,12554469,Should This Be Normalized?,5/15/2018,2
+David Kesselring,,286428687,The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics ,4/28/2020,2
+Dawn Felton,,283031017,AWS vs. Azure:  What's the Difference for a DBA?,4/7/2020,2
+Debanjan Bhattacharya,,234890305,SQL Graph Revealed,5/21/2019,2
+Don,,254907374,Shop Talk,10/12/2020,2
+Doug Neumann,,23377991, New Features and New Speed in SQL Server 2016 (and 2017!) Always On AGs,9/18/2018,2
+Elliot Lochansky,I've been doing data migrations via MS Access\vba for about 10 years now. Its time to drop access!,63121132,Profiling Your Data,1/15/2019,2
+Elsa Lam,,66211212,The SQL Server Performance Tasting Menu,1/21/2020,2
+Evan,,7282666,Azure Data Studio is not Replacing SSMS,9/10/2019,2
+Eyal Greenberg,,213447384,Dynamic Search Conditions by Erland Sommarskog,6/5/2020,2
+Francisco Navarro,,227046442,Bonus Stream:  Becoming Ever More Intimate with your Indexes by Jason Brimhall,4/8/2020,2
+harry griffith,,304192285,Shop Talk,4/20/2020,2
+II,,227724505,Using Open Source Products to Collect Performance Metrics,11/20/2018,2
+Janardhan Swaminathan,,189556123,R as interface for analysis in databases,9/1/2020,2
+Jeff Mlakar,A SQL Server Professional looking to grow my knowledge and engage with other professionals. I also love coffee and technology.,157923262,A Beginner's Guide To Plan Guides,1/16/2018,2
+Jeremy Marquardt,,114104462,Roles and Responsibilities of the Azure Data Engineer by Jes Schultz,4/21/2020,2
+Jerome,,223257965,Azure Data Studio is not Replacing SSMS,9/10/2019,2
+Jessica Abernethy,,42112542,R as interface for analysis in databases,9/1/2020,2
+Jibreel Rice,,229255408,Deadlocking for Mere Mortals by Jonathan Kehayias,4/10/2018,2
+Jim Pyle,,154886832,IoT and Machine Learning in Azure,7/28/2020,2
+jim_stivers,,131679392,Data Architecture Day 2020,5/16/2020,2
+Jizhen,,96960502,Data Science:  Keras and TensorFlow,6/25/2019,2
+Joe,,283536518,Chaos Engineering for SQL Server,12/10/2019,2
+John Wei,,248165312,Should This Be Normalized?,5/15/2018,2
+Jon Anderson,,11178688,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,2
+Jonathan McMillon,,188128224,Consistent Deployments / Team Development,8/21/2018,2
+Julia Kuznetsova,,26769922,Google Summer of Code Mentorship: Data-Driven Exploration of the R Community,10/22/2019,2
+Kalin Naidoo,,240796759,Dynamic Search Conditions by Erland Sommarskog,6/5/2020,2
+Kevin Williams,,246408461,Data Architecture Day 2020,5/16/2020,2
+Kiran Kakarlamudi,,83025132,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,2
+Leslie Ray,,116561192,R as interface for analysis in databases,9/1/2020,2
+Lokesh Radha,,293732488,Execution Plans:  What Else Can They Do? by Grant Fritchey,2/11/2020,2
+LP,,13431088,SQL Saturday Raleigh 2019,4/27/2019,2
+Madhuja,,262931716,Data Architecture Day 2020,5/16/2020,2
+Mallikarjun Talikoti,,249349131,Build your brand with technical writing,8/18/2020,2
+Manne Priyanka,,228340781,"SQL Server 2019: What's New, What's Great, What's Amazing",4/9/2019,2
+Mark McCahill,,306478238,IoT and Machine Learning in Azure,7/28/2020,2
+Megha Bothe,,298765878,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,2
+Michael Hancock,,222910033,TriPASS Data Science:  Spark.NET,7/23/2019,2
+Michael Prendergast,,278616902,Inside Kubernetes: An Architectural Deep Dive By Anthony Nocentino,5/14/2019,2
+Mike Strickland ,,8020641,A Brief Look at ML.Net,5/28/2019,2
+Muhammad Usman,,66828782,Developing a Solution with SQL Server Machine Learning Services,5/19/2020,2
+Naga(Padma) S,,238584147,The Case of the Slow Temp Table: A Performance Tuning Problem By Kendra Little,7/10/2018,2
+Neil Hambly,,161345622,Data Architecture Day 2020,5/16/2020,2
+Oksana,,95965512,Data Science:  Stacking Audience Models,2/26/2019,2
+Omar Sodeq,,263742777,Setting Up SQL Audit -- Steps to Success by Mark Gordon,2/18/2020,2
+patel kaushik,,238025247,R as interface for analysis in databases,9/1/2020,2
+Prashant Chopra,,140485382,Data Architecture Day 2020,5/16/2020,2
+Prince Kumar Rastogi,,258390689,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,2
+Priten G,,211868368,Data Science:  Linear Regression,9/25/2018,2
+Rajesh Kumar V SQL DBA,,275529026,SQL Saturday Raleigh 2019,4/27/2019,2
+Ramesh Karanam,I am a .NET developer looking forward to keep myself up to date on Microsoft tech stack,114481722,Shop Talk,5/11/2020,2
+Rayis Imayev,,191827150,IoT and Machine Learning in Azure,7/28/2020,2
+Rob Vatz,I am the sole developer and DBA for a small organization,46735782,Consistent Deployments / Team Development,8/21/2018,2
+Rod,,207665777,Shop Talk,7/6/2020,2
+Rohini,,238948631,An Introduction to GitHub for Data Professionals,9/17/2019,2
+Sanjay ,,194232359,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,2
+Saran A,,54827962,Data Science:  Keras and TensorFlow,6/25/2019,2
+Sarfaraz Shaikh,,90449402,Consistent Deployments / Team Development,8/21/2018,2
+Sasikanth,,200045106,Data Science Meetup:  Using ggplot2,5/22/2018,2
+Sean ,,6813180,Going Asynchronous With Service Broker,3/20/2018,2
+Sri,,292235668,The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics ,4/28/2020,2
+Srikanth Udayananda,,235332723,Online: AI For Good: Cognitive Services Vision,3/24/2020,2
+Sudhir Deshpande,,127407492,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,2
+Tamuka Mazana,,213996383,DevOps: Consistent Deployments / Team Development,3/17/2020,2
+Tanzila Zaman,,250186752,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,2
+Taylor Fore,,249220982,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,2
+Terrence,,180907192,Data Architecture Day 2020,5/16/2020,2
+Terry Stanfield,,37372212,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,2
+Thea Rasins,,27231762,Roles and Responsibilities of the Azure Data Engineer by Jes Schultz,4/21/2020,2
+Thomas Krisulewicz,,274382280,"SQL Server 2019: What's New, What's Great, What's Amazing",4/9/2019,2
+tina,,5501096,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,2
+tjay belt,,160089542,Data Architecture Day 2020,5/16/2020,2
+Tom Roncoli,,969125,Shop Talk,9/21/2020,2
+Tony Betivas,,205339531,An Introduction to GitHub for Data Professionals,9/17/2019,2
+Travis Johnson,,279674776,SQL Saturday Raleigh Recap and Review,5/21/2019,2
+Vanita Thorne,,245663728,The Case of the Slow Temp Table: A Performance Tuning Problem By Kendra Little,7/10/2018,2
+Vasu G Srini,,224025450,Getting Started With Apache Spark,12/18/2018,2
+Vijay Kunapareddy,,259076132, Data Virtualization with PolyBase by Kevin Feasel,8/13/2019,2
+Viji Sridhar,,253093476,"You're Stuck with Crappy Hardware, Now What? by Monica Rathbun",5/8/2018,2
+Vikas Kumar,,295747512,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,2
+YEFIM SHUF,,254986738,R as interface for analysis in databases,9/1/2020,2
+Yoshiyuki Igarashi,,232612372,SQL Saturday Raleigh 2019,4/27/2019,2
+Zaik,,5248528,Transaction processing for In-Memory OLTP by Ned Otter,3/13/2018,2
+Aashish,,76361962,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,1
+Adam Smith,,203254526,Should This Be Normalized?,5/15/2018,1
+Ajay Singh,,306247774,Data Architecture Day 2020,5/16/2020,1
+Akshay Sharma,,238814512,Database Corruption! Preventing Disaster to your Database.,7/17/2018,1
+Alan Frelich,,116902112,Tuning Indexes to Avoid Blocking by Brent Ozar,6/12/2018,1
+Alan Jones,,222729918,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Alastair Davie,,311653308,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Albert Święcicki,,275336818,Data Science:  Stacking Audience Models,2/26/2019,1
+Alice Broadhead,,41421062,Data Science:  Stacking Audience Models,2/26/2019,1
+Amy,,35849832,Shop Talk,10/5/2020,1
+Andrea Restle-Lay,"Sr. Software Engineer, NCSU",10150946,Database Corruption! Preventing Disaster to your Database.,7/17/2018,1
+Andrew LaCroix,,275968382,Data Science:  SQL Server Machine Learning Services in Production,3/26/2019,1
+Andrew Moyano,,272140780,Profiling Your Data,1/15/2019,1
+Andries Engelbrecht,,210402371,Advanced SQL Server troubleshooting with SQLCallStackResolver,2/12/2019,1
+Andy,,182482477,Never Say Hacking SQL Server Again by Andre Melancia,6/11/2019,1
+Angela,"I'm a DBA for Precision Walls, Inc",14132704,R as interface for analysis in databases,9/1/2020,1
+Ankit Jain,,306580958,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,1
+Anna Wachtel,,303812667,Bonus Stream:  Becoming Ever More Intimate with your Indexes by Jason Brimhall,4/8/2020,1
+Anthony Benjamin,,240312348,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,1
+as.abdulkareem,,178279702,Shop Talk,9/21/2020,1
+Asel Zh,,277032115,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,1
+Ashok,,216854132,Data Science:  $ML,4/24/2018,1
+Barney Lawrence,,196734808,Data Architecture Day 2020,5/16/2020,1
+Barry DeCicco,,183617675,R as interface for analysis in databases,9/1/2020,1
+Ben Curran,,11489630,Moving Data with Azure Data Factory,8/20/2019,1
+Ben Thompson,,267086812,An Introduction to GitHub for Data Professionals,9/17/2019,1
+Berhanu,,200758247,SQL Saturday Raleigh 2019,4/27/2019,1
+Bill D,,285163600,How to compare a forecast with probabilities and a forecast with quantities,8/27/2019,1
+Bill Eubanks,,19543671,"You're Stuck with Crappy Hardware, Now What? by Monica Rathbun",5/8/2018,1
+Brandon,,14543254,"SQL Server 2019: What's New, What's Great, What's Amazing",4/9/2019,1
+Brandt Levitt,,12219726,R as interface for analysis in databases,9/1/2020,1
+Brian Schuster,,12404740,Chaos Engineering for SQL Server,12/10/2019,1
+Bryan,Working in IT in various support and admin positions for 13yrs. New to SQL and would like to dig deeper.,128210152,Characteristics of a Great Relational Database By Louis Davidson,12/17/2019,1
+Bryan Krieger,,119128152,Shaving off Microseconds by Thomas Grohser ,2/13/2018,1
+Carl Wichert,,128285762,Data Architecture Day 2020,5/16/2020,1
+Carolina,,9475537,Real-time Sentiment Prediction in SQL Server by Hiram Fleitas,2/25/2020,1
+Carson Tan,,286394905,Data Architecture Day 2020,5/16/2020,1
+Chan,,203749518,What I'm Telling Your Developers About Database DevOps,7/21/2020,1
+Charles,,133946892,Data Science:  Stacking Audience Models,2/26/2019,1
+Chet Musialowski,,39086662,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+Chris Crudup,,297106518,AWS vs. Azure:  What's the Difference for a DBA?,4/7/2020,1
+Chris Mickle,Working with large environmental data sets in SQL Server.,142127892,SQL Server and PowerShell: Let's Get Serious,2/20/2018,1
+Chris Mizelle,,222251429,Classification With Naive Bayes,8/28/2018,1
+Chris Wellington,,10087138,Shop Talk,9/21/2020,1
+Chris Wood,,196932752,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+Christian Di Lorenzo,,98253392,Data Science:  Stacking Audience Models,2/26/2019,1
+Colleen Barnitz,,311662117,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Dale Reece,,96911712,Deadlocking for Mere Mortals by Jonathan Kehayias,4/10/2018,1
+Daniel Barnes,,194861227,Applications of Hashbytes and Compress Functions,3/19/2019,1
+Daniel Havey,,209885984,Data Science:  Sequential Data Modeling With LSTM,1/30/2018,1
+Darren Scott,,256579135,The SQL Server Performance Tasting Menu,1/21/2020,1
+"David ""Jeet"" Green",,39211322,A Brief Look at ML.Net,5/28/2019,1
+David Holoman,Director of Data Management at a data-centric healthcare coordination firm.,182524634,Data Science: Jupyter Notebooks,10/23/2018,1
+Dean,,276891613,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Derek W,,204154022,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+Dominique,I am interested in developing my SQL skills as I transition into a DBA profession.  I am looking to network with SQL professionals.  If there are any professionals looking for entry level support or mentoring a newbie I would greatly appreciate it.,90000792,Data Science:  $ML,4/24/2018,1
+Doug Gyll,,198496350,Tuning Indexes to Avoid Blocking by Brent Ozar,6/12/2018,1
+Doug Shartzer,Newbie in the analytics profession,101543282,Bonus Stream:  Becoming Ever More Intimate with your Indexes by Jason Brimhall,4/8/2020,1
+Dustin Sherburne,,261511239,Consistent Deployments / Team Development,8/21/2018,1
+ehsan negahbani,,260137093,Getting Started With Apache Spark,12/18/2018,1
+Elliott Fouts,,253778929,Should This Be Normalized?,5/15/2018,1
+Eric Baugess,,278374078, Empowered by Alteryx: A data analytics journey from the lab bench to healthcare,9/24/2019,1
+Eric Bowen,,267514515,Scaling OLTP Workloads with Containers by Chris Adkin,1/8/2019,1
+Eric megert,,8556364,The Power of Electric Snakes! An Introduction to PySpark for Big Data Analytics ,4/28/2020,1
+FilipaCSR,,190612534,Data Science:  Sequential Data Modeling With LSTM,1/30/2018,1
+Ganesh M,,232581019,Data Science Meetup:  Using ggplot2,5/22/2018,1
+George,,252796052, New Features and New Speed in SQL Server 2016 (and 2017!) Always On AGs,9/18/2018,1
+George johnston,,315177863,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+granada Coder,,216791790,Azure Data Studio is not Replacing SSMS,9/10/2019,1
+Guru,,237545351,An Introduction to GitHub for Data Professionals,9/17/2019,1
+H P,,277181665,Inside Kubernetes: An Architectural Deep Dive By Anthony Nocentino,5/14/2019,1
+Hasan Savran,,225610397,Data Architecture Day 2020,5/16/2020,1
+Hennie de Nooijer,,182157782,Shop Talk,5/18/2020,1
+holly,,22849021,How to compare a forecast with probabilities and a forecast with quantities,8/27/2019,1
+Ian C,,3482864,Dynamic Search Conditions by Erland Sommarskog,6/5/2020,1
+Imtiyaz khan,,186568195,An Introduction to GitHub for Data Professionals,9/17/2019,1
+ITConsultancy,,229037731,SQL Saturday Raleigh 2019,4/27/2019,1
+Jag,,1043488,Advanced DBA:  Azure Managed Instances,10/9/2018,1
+James,"I have been an implementation consultant, for a SQL Server BI stack based product, for many years.
+
+",6212859,Data Science:  $ML,4/24/2018,1
+James Chase,,277205145,TriPASS Data Science:  Spark.NET,7/23/2019,1
+James Stivers,,266738259,A Brief Look at ML.Net,5/28/2019,1
+Jameson(Jue Wang),,252078529,Data Architecture Day 2020,5/16/2020,1
+Jaryd,,184641298,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,1
+Jason,,185725370,Going Beyond the Basics with Query Store with Joseph Fleming,4/14/2020,1
+Jeet,,258823711,Profiling Your Data,1/15/2019,1
+Jeevan,SQL Developer working with BI stack.,62188602,The Case of the Slow Temp Table: A Performance Tuning Problem By Kendra Little,7/10/2018,1
+Jesse Bikman,,60361142,Should This Be Normalized?,5/15/2018,1
+jian pang,,299002713,Setting Up SQL Audit -- Steps to Success by Mark Gordon,2/18/2020,1
+Jignesh Shah,,80491502,Automating Power BI Deployments,2/19/2019,1
+Jim Piper,,7086590,Using Open Source Products to Collect Performance Metrics,11/20/2018,1
+John M Kaya,,261626923,R as interface for analysis in databases,9/1/2020,1
+John Orr,"Self-motivated, reliable, and hardworking professional with 9 years of experience in healthcare data analysis, database analysis, scope & requirement management, support and solutions customization for complex businesses.
+
+",29468332,Social Media Marketing Blitz: Data Analysis,3/27/2018,1
+John P,,184010915,Build your brand with technical writing,8/18/2020,1
+Jonathan Vogel,,11429548,DevOps and Decoys: Automation with Azure by Kellyn Pot'Vin-Gorman,3/12/2019,1
+Josef Prakljacic,,219116650,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Josh Bowman,,282481462,Never Say Hacking SQL Server Again by Andre Melancia,6/11/2019,1
+Joy Decker,,271279966,Shop Talk,9/21/2020,1
+Julie,,4007611,R as interface for analysis in databases,9/1/2020,1
+Karen McCann,,13878910,Data Science:  Sequential Data Modeling With LSTM,1/30/2018,1
+Kathy Sun,,259793912,Classification With Naive Bayes,8/28/2018,1
+Keith Cook,,309829553,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+Kenny Buchanan,,281556440,Characteristics of a Great Relational Database By Louis Davidson,12/17/2019,1
+Kevin Kao,,236121314,AWS vs. Azure:  What's the Difference for a DBA?,4/7/2020,1
+Kyle Stittleburg,,139140972,A Brief Look at ML.Net,5/28/2019,1
+Kylie,,176148012,Never Say Hacking SQL Server Again by Andre Melancia,6/11/2019,1
+Ladislav Černík,,315573447,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+Lauren Putvin,,11597320,Getting Started With Apache Spark,12/18/2018,1
+Luc Saunders,,267497154,TriPASS Data Science:  Spark.NET,7/23/2019,1
+Maddy,,5873179,Data Science:  Building A Neural Network With Keras In R,2/27/2018,1
+Marie,,56583222,Data Science:  Keras and TensorFlow,6/25/2019,1
+Mark Peters,,57378722,SQL Graph Revealed,5/21/2019,1
+Maruthi Siva Prasad,,259979451,Shop Talk,7/6/2020,1
+Mary Taylor,,197873435,Data Science Meetup:  Using ggplot2,5/22/2018,1
+Matt Finner,,273378584,Data Architecture Day 2020,5/16/2020,1
+Matt Leader,,142807882,Data Science:  Stacking Audience Models,2/26/2019,1
+Matthew Roche,,278203360,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+MICHAEL j MOEN,,279426660,SQL Saturday Raleigh 2019,4/27/2019,1
+Michael Meli,,247614136,Never Say Hacking SQL Server Again by Andre Melancia,6/11/2019,1
+Michael Rice,,277014169,Data Science:  SQL Server Machine Learning Services in Production,3/26/2019,1
+Mike M.,,204036460,Deadlocking for Mere Mortals by Jonathan Kehayias,4/10/2018,1
+Mike Mabry,,192158793,Shop Talk,9/21/2020,1
+Morgan Escalera,,298631945,Online: AI For Good: Cognitive Services Vision,3/24/2020,1
+Mourya,,286654403,Data Architecture Day 2020,5/16/2020,1
+MT,,272236322,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+Mudbone,,232455294,Quantum Computing Without Too Much Math,4/23/2019,1
+Nate,,24196412,Bonus Stream:  Becoming Ever More Intimate with your Indexes by Jason Brimhall,4/8/2020,1
+Nate W,,228830474,"Measure Twice, cut once: Intro to unit testing with tSQLt",9/11/2018,1
+Osei-Afriyie Samuel,,278337860,Dynamic Search Conditions by Erland Sommarskog,6/5/2020,1
+Paige Gunther,,225973915,Data Science: Jupyter Notebooks,10/23/2018,1
+Pamela JS Thomas,,7805830,SQL Server Notebooks (Thursday Meeting!),4/18/2019,1
+Parris Lucas (RedHat),,288016074,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,1
+Paul Narcisse,,197485895,Why I Use Cursors in SQL,6/18/2019,1
+Raghu Ariga,,23021821,Social Media Marketing Blitz: Data Analysis,3/27/2018,1
+Raj,,265698181,Profiling Your Data,1/15/2019,1
+Rajat Agrawal,,203065364,All Things SQL In the Microsoft Cloud by David Klee,3/10/2020,1
+Rajesh,,304306549,Data Architecture Day 2020,5/16/2020,1
+Randy Robbins,,229958523,Moving Data with Azure Data Factory,8/20/2019,1
+ravimitian,,195108697,Getting Started With Apache Spark,12/18/2018,1
+Ray,,93890262,R as interface for analysis in databases,9/1/2020,1
+Regina Petty,,210012299,Data Science:  Grokking the Grammar of Graphics,7/31/2018,1
+Richard McGarry,,209345369,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+Ricky,,8163108,Data Architecture Day 2020,5/16/2020,1
+rj,,183557033,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,1
+Rob McCormick,http://www.linkedin.com/in/robmccormick/,12720914,Build your brand with technical writing,8/18/2020,1
+Roopa Teragundi-Maralihalli,,220503661,The Case of the Slow Temp Table: A Performance Tuning Problem By Kendra Little,7/10/2018,1
+Roxana,,236501503,Execution Plans:  What Else Can They Do? by Grant Fritchey,2/11/2020,1
+Ryan Berberian,,251015919,Data Science:  ggplot2 And quasiquotation,6/26/2018,1
+Salman Maher,,89443802,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,1
+sandhya,,6186793,Going Asynchronous With Service Broker,3/20/2018,1
+Sangeetha,,103892892,"Measure Twice, cut once: Intro to unit testing with tSQLt",9/11/2018,1
+Sarah Hagan Hudspeth,,13434635,Classification With Naive Bayes,8/28/2018,1
+Sarith,,185670276,Azure Data Studio is not Replacing SSMS,9/10/2019,1
+Scott,,201503726,Shop Talk,8/31/2020,1
+Sean Klein,,195766400,Going Asynchronous With Service Broker,3/20/2018,1
+Sergio Pacheco,,67508742,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Sesh,,274443923,Developing a Solution with SQL Server Machine Learning Services,5/19/2020,1
+shaji,,299647453,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,1
+Shashikanth Pusa,I am SQL DBA/BI developer at FileOne.,124202792,"A behind the scenes look at AI, ML, and DL for the Data Professional",1/28/2020,1
+Shaun Atkinson,,232839965,Data Architecture Day 2020,5/16/2020,1
+Shaun Smith,,306816807,What I'm Telling Your Developers About Database DevOps,7/21/2020,1
+Shawn Yan,,315237126,Advanced Plan Explorer Usage for Tuning Execution Plans by Andy Yun,9/16/2020,1
+Sheri Ziegler,"Moved to NC five years ago. Interested in all aspects of Business Intelligence, SQL Query and SSRS.",162275082,Data Science:  Sequential Data Modeling With LSTM,1/30/2018,1
+Sherman Han,,89045442,Data Science:  Building A Neural Network With Keras In R,2/27/2018,1
+simon akhamie,,216844357,"TempDB: The Good, The Bad, and The Ugly by Pam Lahoud",6/9/2020,1
+Sonal,,250224683,Going Asynchronous With Service Broker,3/20/2018,1
+Sonal Mittl,,225047693,SQL Server and PowerShell: Let's Get Serious,2/20/2018,1
+Sophia Chen,,207995375,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Sriram Viswanathan(Ram),Software developer with 9+ years of experience predominantly with Microsoft technologies.,57912242,Getting Started With Apache Spark,12/18/2018,1
+Stephen Surles,SQL DBA & Programmer for a small insurance IT company. MIS instructor for Mount Olive College.,97585582,Shop Talk,9/28/2020,1
+Suhwa Lee,,290249295,An Introduction to GitHub for Data Professionals,9/17/2019,1
+Sukumar Ponram,,10450047,Going Asynchronous With Service Broker,3/20/2018,1
+tamrat wells,,214278741,Data Science:  SQL Server Machine Learning Services in Production,3/26/2019,1
+Thomas Mosley,,305359304,Shop Talk,4/6/2020,1
+Toby Bowen,,232058012,AWS vs. Azure:  What's the Difference for a DBA?,4/7/2020,1
+Todd Hale,,311474966,Shop Talk,6/15/2020,1
+Tom Burgin,,287918156,What I'm Telling Your Developers About Database DevOps,7/21/2020,1
+Tom Williams,,99203862,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Tomasz Wisniewski,,232053060,Inside Kubernetes: An Architectural Deep Dive By Anthony Nocentino,5/14/2019,1
+Tre Allison,,204339701,Data Science:  Building A Neural Network With Keras In R,2/27/2018,1
+Trevor Feldman,,92200712,Should This Be Normalized?,5/15/2018,1
+Tyler Smith,,260073393,"Measure Twice, cut once: Intro to unit testing with tSQLt",9/11/2018,1
+Ulli Garner,,253650960,Shop Talk,9/21/2020,1
+Vanessa,I'm an Oracle DBA who was thrown into the role of SQL Server guru for our group. :),3695592,Never Say Hacking SQL Server Again by Andre Melancia,6/11/2019,1
+Venkatesh Titte,,233541993,What You Need to Know to Administer Power BI by Melissa Coates,6/16/2020,1
+Vicki B,New to the area,13080281,Should This Be Normalized?,5/15/2018,1
+Victor Rojas,"New IT guy in the area.  Just moved from Pensacola, Florida.  I was a volunteer helping the organization of our group ""Pensacola SQL User Group / .NET"", previously involved in events like SQL Saturday, SQL Pass, Microsoft Windows 8 events.",83283532,SQL Server and PowerShell: Let's Get Serious,2/20/2018,1
+Vimal,,98825442,How to compare a forecast with probabilities and a forecast with quantities,8/27/2019,1
+Vishal,,191460426,Getting Started With Apache Spark,12/18/2018,1
+Wayne Starnes,,97408112,Shop Talk,10/5/2020,1
+Wendy C,,276957365,SQL Saturday Raleigh 2019,4/27/2019,1
+Winston Antonio R. Ramos,,237472000,An Introduction to GitHub for Data Professionals,9/17/2019,1
+Wolfgang Strasser,,215178139,Azure Synapse Analytics:  A Data Lakehouse,8/11/2020,1
+Yunkai Xiao,,222961470,Getting Started With Apache Spark,12/18/2018,1
+Yvrande Jean-Mary,,232271143,Shop Talk,10/12/2020,1
+zie,,119538472,Data Science:  Sequential Data Modeling With LSTM,1/30/2018,1
