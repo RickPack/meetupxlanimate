@@ -27,7 +27,8 @@ centStyle  <- openxlsx::createStyle(halign = "CENTER")
 dateStyle  <- openxlsx::createStyle(numFmt = "yyyy-mm-dd")
 
 # column width handling per https://stackoverflow.com/questions/45860085/r-autofit-excel-column-width
-xlsxformat <- function(df_inxlsx, namxlsx="", nxlsx, max_nxlsx = 99, wksht_name = "data", wb){
+xlsxformat <- function(df_inxlsx, namxlsx="", nxlsx, max_nxlsx = 99, 
+                       wksht_name = "data"){
   if (nxlsx==1) {
     wb <- createWorkbook()
   }
@@ -48,6 +49,7 @@ xlsxformat <- function(df_inxlsx, namxlsx="", nxlsx, max_nxlsx = 99, wksht_name 
   }
   
   invisible(wb)
+  assign("wb", wb, envir = .GlobalEnv)
 }
 
 onesht_xlsx <- function(df_inxlsx, namxlsx){
