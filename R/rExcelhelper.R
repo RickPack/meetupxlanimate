@@ -11,7 +11,6 @@
 #' @export xlsxformat
 #' @export onesht_xlsx
 
-# examine gridExpand, MOD(ROW(),2)=0,
 # use these styles after line like writeData(wb, "Sheet1", sumfrm2)
 
 library(openxlsx)
